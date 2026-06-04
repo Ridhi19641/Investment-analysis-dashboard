@@ -60,11 +60,7 @@ The project includes data cleaning, pivot tables, dashboard creation, and intera
 
 ### Dashboard
 
-![Dashboard](Screenshots/Dashboard.png)
-
-### Correlation Analysis
-
-![Correlation](Screenshots/Correlation_Analysis.png)
+![Dashboard](full_Dashboard_ss.png)
 
 ---
 
